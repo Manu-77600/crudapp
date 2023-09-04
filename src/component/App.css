@@ -1,0 +1,38 @@
+.menu{
+    height: 20px;
+    width: 100%;
+    background-color:red;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container a{
+    text-align: center;
+    text-decoration: none;
+    text-align: center;
+    color: beige;
+    margin-left: 500px;
+    margin-top: 20px;
+}
+.form-input{
+    display: inline-block;
+    margin: 30px;
+}
+.form-input button{
+    padding: 4px;
+    border-radius: 3px;
+    background-color: rgba(56, 212, 223, 0.922);
+    cursor: pointer;
+}
+table{
+    border: 2px;
+}
+    
+.table-head tr{
+    background-color: antiquewhite ;
+
+}
+.custcontainer{
+    margin: 20px;
+}
